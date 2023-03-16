@@ -1,1 +1,1 @@
-Just look at the prompt.csv
+Just look at the prompts.csv
